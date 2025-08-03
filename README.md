@@ -11,21 +11,19 @@ Interested in systems and security
 
 ---
 
-### ⚙️ Tools & Tech
-
-# languages
+### languages
 Python | C | Swift (ew)
 
-# tools
+### tools
 palera1n | frida/objection | burp/mitmproxy
 
-# platforms
+### platforms
 Linux/Windows/MacOS | iOS (jailbroken)
 
 ### 📈 GitHub Stats
 ![Hannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnns13&show_icons=true&theme=github_dark)
 
-📫 [Mail](github@hannesallmann.de)
+#### 📫 [Mail](github@hannesallmann.de)
 
 <!--
 **hnns13/hnns13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
