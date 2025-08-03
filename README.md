@@ -1,26 +1,21 @@
-## 🧨 hnns13
+## hnns13
 
-Computer science student @ DHBW  
-Interested in systems and security
-
+- cs student @ DHBW  
+- interested in systems and security
 ---
-
 ### currently
 - jailbreaking and low-level iOS internals  
 - some python practices for homeprojects
-
 ---
-
 ### languages
-Python | C 
-
+- Python
+- C 
 ---
-
 ### tools
-palera1n | frida/objection | burp/mitmproxy
-
+- palera1n
+- frida/objection
+- burp/mitmproxy
 ---
-
 ### 📈 GitHub Stats
 ![Hannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnns13&show_icons=true&theme=github_dark)
 
